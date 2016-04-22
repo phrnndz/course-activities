@@ -1,0 +1,6 @@
+{
+  "name": "Course-activities",
+  "tagline": "This repository has been created to keep my exercices of my W3C certification",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n  <meta charset=\"utf-8\">\r\n  <meta name=\"viewport\" content=\"width=device-width\">\r\n  <title>Activity 1.6</title>\r\n</head>\r\n<body>\r\n  <h1>HTML5 Introduction Activity</h1>\r\n  <br>\r\n  <h2>Poetry</h2>\r\n  <blockquote>\r\n    En perseguirme, mundo, &iquest;que interesas&#63; <br> \r\n    &iquest;En qu&eacute; te ofendo, cuando s&oacute;lo intento <br> \r\n    poner bellezas en mi entendimiento <br>\r\n    y no mi entendimiento en las bellezas&#63; <br>\r\n    <br>\r\n    Yo no estimo tesoros ni riquezas; <br>\r\n    y asi, siempre me causa mas contento <br>\r\n    poner riquezas en mi pensamiento <br>\r\n    que no mi pensamiento en las riquezas. <br>\r\n    <br>\r\n    Sor Juana Inés de la Cruz\r\n  </blockquote>\r\n  <hr> \r\n  <h2>3 different definitions</h2>\r\n  <h3>Fit</h3>\r\n  <ul>\r\n    <li>to be the right size or shape for someone or something</li>\r\n    <li>to be suitable for something</li>\r\n    <li>healthy and strong, especially as a result of exercise</li>\r\n  </ul>\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
